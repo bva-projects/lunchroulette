@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'Righteous', cursive;
+  font-family: 'Nunito', sans-serif;
   padding: 0;
   margin: 0;
   display: -webkit-box;
@@ -17,7 +17,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url("./images/food.jpg");
+  background: url("./images/lunch.png");
   background-size: cover;
   background-position: center;
   color: white;
@@ -45,18 +45,18 @@ h1 {
 .persons {
   display: -ms-grid;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 3rem;
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
   justify-items: center;
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin-top: 1.75rem;
   text-shadow: 2px 2px black;
 }
 
 button {
   margin: 0 auto;
-  font-family: 'Righteous', cursive;
+  font-family: 'Nunito', sans-serif;
   font-size: 1.5rem;
   padding: 1rem;
   margin-top: 1rem;
