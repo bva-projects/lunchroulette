@@ -45,12 +45,12 @@ h1 {
 .persons {
   display: -ms-grid;
   display: grid;
+  grid-gap: 1rem;
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
   justify-items: center;
-  grid-gap: 3rem;
-  font-size: 2rem;
-  margin-top: 2rem;
+  font-size: 1.75rem;
+  margin-top: 1.75rem;
   text-shadow: 2px 2px black;
 }
 

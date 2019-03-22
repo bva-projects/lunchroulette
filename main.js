@@ -97,7 +97,9 @@ new Vue({
 		personOne: '',
 		personTwo: '',
 		personThree: '',
-		personFour: ''
+		personFour: '',
+		personFive: '',
+		personSix: ''
 	},
 	methods: {
 		generateNames: function() {
@@ -118,6 +120,8 @@ new Vue({
 			this.personTwo = this.names[1];
 			this.personThree = this.names[2];
 			this.personFour = this.names[3];
+			this.personFive = this.names[4];
+			this.personSix = this.names[5];
 		}
 	}
 });
