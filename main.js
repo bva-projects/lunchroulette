@@ -12,7 +12,7 @@ new Vue({
 			'Brayden Beverage',
 			'Cassie Blench',
 			'Gerald Briones',
-			'Steph Brock',
+			'Jason Patio',
 			'Corey Burkhart',
 			'Caitlin Byrne',
 			'Marcus Cass',
